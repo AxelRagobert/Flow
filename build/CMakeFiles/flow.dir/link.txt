@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/flow.dir/include/glad/src/glad.c.o CMakeFiles/flow.dir/src/main.cpp.o  -o flow  -lglfw -lOpenGL -lGLX -lGLU -lm -ldl /usr/lib/libOpenCL.so 
